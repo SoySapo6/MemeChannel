@@ -1,0 +1,16 @@
+{
+  "name": "mi-canal-ipv",
+  "version": "1.0.0",
+  "description": "Mi canal IPTV usando m3u8 en Render",
+  "main": "server.js",
+  "type": "module",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "keywords": ["iptv", "m3u8", "nodejs", "render"],
+  "author": "Maycol",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.18.4"
+  }
+}
